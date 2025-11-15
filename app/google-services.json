@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "225410417146",
-    "project_id": "smartwaste-3051c",
-    "storage_bucket": "smartwaste-3051c.firebasestorage.app"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:225410417146:android:4bdeebbb36df41b0fba443",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.smartwaste"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB5sSuDFl6Q8Ef-7_ZrRsWgXREyYTTmSNg"
+          "current_key": ";"
         }
       ],
       "services": {
